@@ -1,0 +1,12 @@
+custom dataset collection for face recognition
+https://pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/
+
+VGGFace - face recognition
+https://www.kaggle.com/code/vinayakshanawad/celebrity-face-recognition-vggface-model
+
+https://www.kaggle.com/code/yk7283/facial-recognition-with-deep-learning#Step-5.-Build-a-CNN-model-that-has-3-main-layers:
+
+COMPARISON BETWEEN VARIOUS FACE DETECTION PRETRAINED MODELS
+https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c
+
+https://medium.com/analytics-vidhya/face-recognition-using-transfer-learning-and-vgg16-cf4de57b9154
